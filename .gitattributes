@@ -1,0 +1,3 @@
+*.hpp linguis-language=C++
+*.h linguis-language=C++
+*.cpp linguis-language=C++
