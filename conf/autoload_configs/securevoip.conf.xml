@@ -1,0 +1,9 @@
+<configuration name="securevoip.conf" description="mod_apple_apn Configuration">
+  <settings>
+    <param name="cert_path" value="/opt/freeswitch/conf/ssl/"/>
+    <param name="db_name" value="/opt/freeswitch/var/lib/freeswitch/db/ios_token_db.db"/>
+    <param name="aps_host" value="api.push.apple.com"/>
+    <param name="aps_port" value="443"/>
+  </settings>
+</configuration>
+
